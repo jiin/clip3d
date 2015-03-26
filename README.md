@@ -21,7 +21,7 @@ model coord -> global coord -> camera coord -> projection(frustum) -> backface e
 
 ```
 
-Beacuse of the restrictions of `clip-path` , This experiment is very weak for realworld 3d rendering. __If you have idea with clip3d, please create issue in this [repo](https://github.com/leeluolee/clip3d/issues)
+Because of the restrictions of `clip-path` , This experiment is very weak for realworld 3d rendering. __If you have idea with clip3d, please create issue in this [repo](https://github.com/leeluolee/clip3d/issues)
 
 
 [__Demo on Codepen__](http://codepen.io/leeluolee/pen/KwJbov?editors=101)
